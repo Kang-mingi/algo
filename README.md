@@ -1,3 +1,5 @@
+[20191119] java/vue exer, todolist, hrm ( vue, vuex, router )
+
 [20191112] ps/ 파이프옮기기2(dp), 치킨배달, 탈주범검거
 
 [20191112] ps/ 사냥꾼(BS)
